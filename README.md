@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=header&text=Dhanush%20Kumar%20K&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Data+Analytics+%7C+ETL+%7C+Power+BI;Multi-Agent+AI+Systems+Builder;DevHack+2026+Champion;Pre-final+Year+%40+SKCT+Coimbatore;Building+EduSense+AI+%2B+WorldCup_Predictor2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Data+Analytics+%7C+ETL+%7C+Power+BI;Multi-Agent+AI+Systems+Builder;DevHack+2026+Champion;Final+Year+%40+SKCET+Coimbatore;Building+EduSense+AI+%2B+WorldCup_Predictor2026" alt="Typing SVG" />
 </a>
 
 <br/>
